@@ -1,0 +1,5 @@
+This is my fist time opening this file. I wanted it to open with VsCode but instead it opened with TextEdit by typing the cmd <open -e test1>.
+
+This is my second attempt opening test1. This time is opened with Vscode. I typed <code test1> in  the terminal and it worked this time.
+
+I did at a third line, and successfully restored it back to line two in git. Now, I will commit this line and revert it back to line 2, once again.
